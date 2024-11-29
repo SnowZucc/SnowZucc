@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnowZucc
-- 👀 I’m interested in self-hosting
+- 👀 I’m interested in self-hosting and digital privacy
 - 🌱 I’m currently learning Java
-- 📫 How to reach me : On Matrix @SnowZucc:matrix.org
+- 📫 How to reach me : On Matrix @snowsucc:matrix.org
 - ⚡ Fun fact: I am hosting a powerful Searx instance (with a loadbalancer on 3 servers) on [katkatgo.fr](https://katkatgo.fr) !!
 
 <!---
