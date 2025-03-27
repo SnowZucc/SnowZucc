@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SnowZucc
 - 👀 I’m interested in self-hosting and digital liberty and privacy
-- 🌱 I’m currently learning ~~Java~~ Vue.js
+- 🌱 I’m currently learning ~~Java~~ Vue.js and PHP
 - 📫 How to reach me : On Matrix @snowsucc:matrix.org
 - ⚡ Fun fact: I am hosting a powerful Searx instance (with a loadbalancer on 3 servers) on [katkatgo.fr](https://katkatgo.fr) !!
 
