@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I am hosting a powerful Searx instance (with a loadbalancer on 3 servers) on [katkatgo.fr](https://katkatgo.fr) !!
 
 Tech stack
-[https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white](Proxmox)
+[![Proxmox]([URL_de_l_image](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white))]([URL_du_lien](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white))
 
 <!---
 SnowZucc/SnowZucc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
