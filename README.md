@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SnowZucc
 - 👀 I’m interested in self-hosting and digital privacy
-- 🌱 I’m currently learning ~~Unity~~ ~~Proxmox~~ ~~LLM fine-tuning~~ ~~Java~~ PHP, Vue.js
+- 🌱 I’m currently learning ~~Unity~~ ~~Proxmox~~ ~~LLM fine-tuning~~ ~~Java~~ ~~PHP~~, Vue.js
 - 📫 How to reach me : On Matrix @SnowZucc:matrix.org
 - ⚡ Fun fact: I am hosting a powerful Searx instance (with a loadbalancer on 3 servers) on [katkatgo.fr](https://katkatgo.fr) !!
 
-Tech stack
 <img src="{https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white}" />
 
 <!---
