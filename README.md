@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SnowZucc
-- 👀 I’m interested in self-hosting and digital privacy
+- 👀 I’m interested in Blockchain ecosystems, self-hosting and digital privacy
 - 🌱 I’m currently learning ~~Unity~~ ~~Proxmox~~ ~~LLM fine-tuning~~ ~~Java~~ ~~PHP~~, ~~Vue.js~~, Agentic workflows
 - 📫 How to reach me : On Signal: Zucc.01
 - ⚡ Fun fact: I am hosting a powerful Searx instance (with a loadbalancer on 3 servers) on [katkatgo.fr](https://katkatgo.fr) !!
